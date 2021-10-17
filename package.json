@@ -16,10 +16,8 @@
     "NodeJS",
     "MongoDB",
     "ExpressJS",
-    "React",
-    "Bootstrap",
-    "React",
-    "Router",
+    "React Bootstrap",
+    "React Router",
     "Redux"
   ],
   "author": "Abhinav Sharma",
