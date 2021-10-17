@@ -1,0 +1,34 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN Shopping App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinavluv/Proshop.git"
+  },
+  "keywords": [
+    "MERN",
+    "ReactJS",
+    "NodeJS",
+    "MongoDB",
+    "ExpressJS",
+    "React",
+    "Bootstrap",
+    "React",
+    "Router",
+    "Redux"
+  ],
+  "author": "Abhinav Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinavluv/Proshop/issues"
+  },
+  "homepage": "https://github.com/abhinavluv/Proshop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
